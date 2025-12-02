@@ -29,13 +29,12 @@ Start the development server with HMR:
 ```bash
 npm run dev
 ```
+Application will be available at `http://localhost:5173`.
 
 Start the server side:
 ```bash
 node index.js
 ```
-
-Your application will be available at `http://localhost:5173`.
 
 ## Code Layout
 ```
