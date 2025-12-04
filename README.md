@@ -17,7 +17,7 @@ https://github.com/remix-run/react-router-templates/tree/main/default
 
 ### Installation
 
-Install the dependencies:
+Install the dependencies (run both in main directory and image-search-server directory):
 
 ```bash
 npm install
