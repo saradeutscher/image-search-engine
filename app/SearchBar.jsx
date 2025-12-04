@@ -107,7 +107,7 @@ const styles = {
     resultsContainer: {
       width: '100%',
       height: '100%',
-      textAlign: 'center', // Center align the results container
+      textAlign: 'center',
     },
     resultsList: {
       display: 'flex',
@@ -122,12 +122,7 @@ const styles = {
       color: '#F5FF80',
       flex: '1 1 100%',
       listStyleType: 'none',
-      // textAlign: 'center',
       float: 'left',
-      //width: 'auto',
-      //paddingRight: '10%',
-      //paddingLeft: '0',
-      //marginLeft: '0',
     },
   };
 
