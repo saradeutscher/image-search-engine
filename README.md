@@ -10,7 +10,8 @@ Returns top 5 matching images (even if none have great probabilities, or there w
 Adapted from: 
 https://www.tigerdata.com/blog/how-to-build-an-image-search-application-with-openai-clip-postgresql-in-javascript
 
-Website is built using React, and the react-router-template as a starting point
+Website is built using React, and the react-router-template as a starting point:
+https://github.com/remix-run/react-router-templates/tree/main/default
 
 ## Getting Started
 
